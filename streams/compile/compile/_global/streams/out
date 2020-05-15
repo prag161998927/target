@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/pratham/Desktop/jaibajrangballi/great work/completion of play/play-samples-play-scala-forms-example/app/controllers/Application.scala:78:23: missing argument list for method apply in object page[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `apply _` or `apply(_)(_)` instead of `apply`.[0m
+[0m[[0m[31merror[0m] [0m[0m    Ok(views.html.page("hello"))[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
